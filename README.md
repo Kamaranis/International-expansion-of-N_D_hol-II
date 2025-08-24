@@ -1,7 +1,7 @@
 # Strategic Market Analysis for International Expansion (Part II)
 ## 📄 Project Overview
 
-This repository represents **Part II** of a comprehensive strategic analysis to guide the international expansion of the fictional company "N&D.hol". Building upon the meticulously prepared dataset from **[Part I: Data Preparation]([Strategic Market Clustering for International Expansion (Part I)](https://github.com/Kamaranis/Strategic-Market-Analysis-for-International-Expansion-Part-I-))**, this phase applies unsupervised machine learning techniques to segment and identify promising markets.
+This repository represents **Part II** of a comprehensive strategic analysis to guide the international expansion of the fictional company "N&D.hol". Building upon the meticulously prepared dataset from **[Part I: Data Preparation: Strategic Market Analysis for International Expansion (Part I)](https://github.com/Kamaranis/Strategic-Market-Analysis-for-International-Expansion-Part-I-)**, this phase applies unsupervised machine learning techniques to segment and identify promising markets.
 
 The primary goal is to move from a clean dataset to actionable business insights by grouping countries based on their socio-economic, demographic, and business environment characteristics. The project culminates in a final, data-driven list of candidate countries for expansion.
 
